@@ -6,7 +6,7 @@
 
 ### 📥 **نصب:**
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/Moriistar/tunellstar/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Moriistar/tunellstar2/main/install.sh)
 ```
 
 ### 🚀 **اجرای پنل:**
